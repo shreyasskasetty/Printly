@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://d3crtwyc2nw0fl.cloudfront.net/items/0M0W110L142j0t2H0W2X/manta-logo.svg" alt="Manta App Logo" width="180" height="auto"/>
+  <img src="" alt="Printly App Logo" width="180" height="auto"/>
 </p>
 
 <h2>
-  Manta
+ Printly
   <a href="https://travis-ci.org/hql287/Manta">
     <img src="https://travis-ci.org/hql287/Manta.svg?branch=dev" alt="Build Status">
   </a>
@@ -32,15 +32,7 @@ A desktop application for creating invoices with beautiful and customizable temp
 
 ### Screenshots
 
-Here's a few screenshots of Manta. [See more](https://github.com/hql287/Manta/wiki/Screenshots)
 
-![Business Template](https://dzwonsemrish7.cloudfront.net/items/3c1R1G1F3T3Z0M3n3V3G/Business%20Template.jpg?v=f9064204)
-
-![Minimal Template](https://dzwonsemrish7.cloudfront.net/items/3k0O3a1V3N1g0u0W3540/Minimal%20Template.jpg?v=7ff9c29c)
-
-![Form](https://dzwonsemrish7.cloudfront.net/items/3G122M3L3I222w1v0t0W/Form.jpg?v=99f647a7)
-
-![Invoice](https://dzwonsemrish7.cloudfront.net/items/1h34052r3S3R2D2a380z/Invoices.jpg?v=78ddc2a5)
 
 ### Translation
 
@@ -77,7 +69,6 @@ The following languages are currently being translated, if you would like to Man
 * 🏷 Custom statuses for invoices.
 * 📊 Export PDF for print or email.
 * 🔒Complete Privacy. You financial data stays where it belongs.
-* 💯 Totally Free.
 
 ### Downloads
 
@@ -145,9 +136,6 @@ With that in mind, I know that Manta would need to satisfy these criteria:
 * 👍 Friendly UI & UX
 * 🎉 Has nice looking templates
 * 🔒 Does not touch user’s data
-* 💰 Free! :)
-
-  If you think Manta delivers these, let me know by putting a star on this project 😉
 
 ### Development
 
@@ -163,43 +151,3 @@ This is still in beta and it's far from perfect so feedbacks, issues or PRs are 
 
 Note that on Linux you will need additional dependencies to provide the `icns2png` and `gm` commands.
 Ubuntu/Debian users can run: `sudo apt install -y icnsutils graphicsmagick`.
-
-### FAQ
-
-* **Is this app built with Electron?**
-
-Yes, it's built on top of [Electron](#). Please see the [Technologies](#technologies) section for more info.
-
-* **What boilerplate did you use**
-
-None. This is my attempt to integrate Electron with React from scratch. The idea was to get a better understanding of how things work together, especially Webpack.
-But I do take cue from other projects.
-
-* **What CSS/UI Framework did you use?**
-
-I wrote all the CSS myself. I only use Bootstrap for prototyping at first. But I gradually encapsulate most of the style to the component with the help of [`styled-components`](https://www.styled-components.com/). There is some places still use Bootstrap mostly for layout purpose but I'll get rid of it eventually.
-
-* **Where did you get the icons?**
-
-[ionicons](http://ionicons.com/). They're great!
-
-* **Why did you name the project Manta? It has nothing to do with invoicing.**
-
-It's actually very common to associate an animal with your brand. There's a reason behind the Twitter bird, the famous MailChimp Freddy or the Docker whale ... It's called the Baby-Face bias. You can read more about it in the book [Designing for Emotion](https://abookapart.com/products/designing-for-emotion) by [Aaron Walter](http://aarronwalter.com/).
-In my case, I was inspired by the movie [Racing Extinction](http://racingextinction.com/) and by naming this project Manta, I hope to raise people's awareness on some environmental issues mentioned in the movie. You can [read more about it here](https://getmanta.app/about/)
-
-* **I like Manta's logo, did you design it?**
-
-Yes, I actually did all the illustrations as well as the templates that you see in the app.
-
-* **Are you available for hire?**
-
-Yes, I'm exploring new opportunities at the moment. Please let me know what you have in mind.
-
-* **How do I contact you?**
-
-If you find an issue, please report it here. For everything else, please drop me a line at hi@getmanta.app
-
-### Acknowledgement
-
-Special thanks to [Crowdin](https://crowdin.com) for providing [an open-source license](https://crowdin.com/page/open-source-project-setup-request) for Manta. Feel free to check out [their website](https://crowdin.com/) for more information about this amazing localization management platform.
