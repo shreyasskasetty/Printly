@@ -36,6 +36,13 @@ export const CONTACT_GET_ALL = 'CONTACT_GET_ALL';
 export const CONTACT_DELETE = 'CONTACT_DELETE';
 export const CONTACT_SAVE = 'CONTACT_SAVE';
 
+// REQUESTS
+//============================================================
+export const REQUESTS_GET_ALL = 'INVOICE_GET_ALL';
+export const REQUESTS_PRINT = 'REQUESTS_PRINT';
+export const REQUESTS_DELETE = 'REQUESTS_DELETE';
+export const REQUESTS_SET_STATUS = 'REQUESTS_SET_STATUS';
+
 // SETTINGS
 // ===========================================================
 export const SETTINGS_SAVE = 'SETTINGS_SAVE';
