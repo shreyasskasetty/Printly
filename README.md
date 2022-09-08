@@ -1,4 +1,4 @@
-#Printy Software
+# Printy Software
 ### Development
 
 It's very easy to get started with these 3 steps:
