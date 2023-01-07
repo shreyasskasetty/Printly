@@ -4,7 +4,7 @@ Printly is a desktop application that helps print shop staff manage print reques
 
 # Quick Look at the Software
 <div>
-    <img src="https://github.com/shreyasskasetty/Printly/blob/master/images/Printly1.gif" alt="Build Status">
+    <img src="https://github.com/shreyasskasetty/Printly/blob/master/images/Printly1.gif" alt="Printly Demo">
 </div>
 
 
